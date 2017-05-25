@@ -1,0 +1,5 @@
+(library
+  ((name showmeyourpipes)
+   (public_name showmeyourpipes)
+   (flags (:standard -warn-error A))
+   (libraries (core async))))
